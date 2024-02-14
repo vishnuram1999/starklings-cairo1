@@ -238,15 +238,15 @@ path = "exercises/enums/enums1.cairo"
 mode = "run"
 hint = "https://book.cairo-lang.org/ch06-01-enums.html"
 
-[[exercises]]
-name = "enums2"
-path = "exercises/enums/enums2.cairo"
-mode = "run"
-hint = """
-You can create enumerations that have different variants with different types
-such as no data, structs, a single felt string, tuples, ...etc
-https://book.cairo-lang.org/ch06-01-enums.html
-"""
+#[[exercises]]
+#name = "enums2"
+#path = "exercises/enums/enums2.cairo"
+#mode = "run"
+#hint = """
+#You can create enumerations that have different variants with different types
+#such as no data, structs, a single felt string, tuples, ...etc
+#https://book.cairo-lang.org/ch06-01-enums.html
+#"""
 
 [[exercises]]
 name = "enums3"
